@@ -1,7 +1,7 @@
 // Question: Write a program which accept range from user and return addiion of all numbers in between that range (range should contains psitive number only).
 
 // Input: 23 30
-// Output: 212
+// Output: 212 
 
 // Input: 90 18
 // Output: Invalid range

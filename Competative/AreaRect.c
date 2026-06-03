@@ -1,7 +1,7 @@
 // Question: Write a program which accept range from user and return addition of all even number in between that range (range should contains positive numbers only). 
 
 // Input: 10 18
-// Output: 70
+// Output: 70 
 
 // Input: -10 2
 // Output: Invalid range
